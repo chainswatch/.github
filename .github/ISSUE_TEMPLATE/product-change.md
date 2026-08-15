@@ -1,9 +1,7 @@
 ---
 name: Product change
 about: Describe a desired product outcome
-title: ""
-labels: ""
-assignees: ""
+type: Product change
 ---
 
 <!--
