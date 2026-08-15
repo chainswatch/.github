@@ -7,26 +7,36 @@ assignees: ""
 ---
 
 <!--
-Describe the product problem, not its implementation.
-Do not design a solution merely to complete this template.
-Unknowns should remain under Open questions.
+Record only the problem, evidence, desired outcome, essential boundaries,
+and material unknowns.
+
+Do not design an implementation merely to complete this template.
+Do not add implementation plans, architecture, acceptance matrices,
+test plans, rollout plans, or speculative edge cases.
+Do not add sections.
 -->
 
 ## Problem
 
+<!-- Describe what is wrong or missing today and why it matters.
+Do not propose a solution. -->
+
 ## Evidence
 
-<!-- Only observed facts, reproductions, measurements, or existing behavior.
-Keep inference distinguishable from observation. Leave empty rather than inventing evidence. -->
+<!-- Include only observed facts, reproductions, measurements, or existing behavior.
+Keep inference distinguishable from observation. Leave empty rather than invent evidence. -->
 
 ## Desired outcome
 
+<!-- Describe what should become true, independently of how it is implemented. -->
+
 ## Essential boundaries
 
-<!-- Include only important guarantees and non-goals.
+<!-- Include only hard guarantees, constraints, and non-goals that materially restrict a valid solution.
 Do not inventory hypothetical edge cases or prescribe implementation machinery. -->
 
 ## Open questions
 
-<!-- Do not answer questions speculatively merely to make the issue complete.
-Empty is fine when there are no material unknowns. -->
+<!-- Include only material unknowns.
+Do not answer them speculatively merely to make the issue complete.
+Empty is correct when there are no material unknowns. -->
