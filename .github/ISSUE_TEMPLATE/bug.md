@@ -1,9 +1,7 @@
 ---
 name: Bug
 about: Report incorrect existing behavior
-title: ""
-labels: ""
-assignees: ""
+type: Bug
 ---
 
 <!--
