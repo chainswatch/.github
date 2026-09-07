@@ -7,8 +7,8 @@ Do not add sections.
 
 ## References
 
-<!-- Use `Refs #NNN` by default.
-Use `Closes #NNN` only when this PR satisfies the entire issue. -->
+<!-- Use `Closes #NNN` for an issue fully resolved by this PR.
+Use `Refs #NNN` for partial fixes or related issues. -->
 
 ## Summary
 
